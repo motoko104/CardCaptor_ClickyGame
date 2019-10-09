@@ -8,7 +8,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "dependencies": {
     "gh-pages": "^2.1.1",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motoko104/CardCaptor_ClickyGame.git"
+    "url": "git+https://github.com/motoko104/cardcaptor_clickygame.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/motoko104/CardCaptor_ClickyGame/issues"
+    "url": "https://github.com/motoko104/cardcaptor_clickygame/issues"
   },
-  "homepage": "https://github.com/motoko104/CardCaptor_ClickyGame.git",
+  "homepage": "https://github.com/motoko104/cardcaptor_clickygame.git",
   "browserslist": {
     "production": [
       ">0.2%",
