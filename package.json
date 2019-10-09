@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motoko104/cardcaptor_clickygame.git"
+    "url": "https://github.com/motoko104/CardCaptor_ClickyGame.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/motoko104/cardcaptor_clickygame/issues"
+    "url": "https://github.com/motoko104/CardCaptor_ClickyGame/issues"
   },
-  "homepage": "https://github.com/motoko104/cardcaptor_clickygame.git",
+  "homepage": "https://github.com/motoko104/CardCaptor_ClickyGSame.git",
   "browserslist": {
     "production": [
       ">0.2%",
