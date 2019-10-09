@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/motoko104/cardcaptor_clickygame.git/static/css/main.fb6e21ea.chunk.css",
-    "main.js": "/motoko104/cardcaptor_clickygame.git/static/js/main.376384ef.chunk.js",
-    "main.js.map": "/motoko104/cardcaptor_clickygame.git/static/js/main.376384ef.chunk.js.map",
-    "runtime-main.js": "/motoko104/cardcaptor_clickygame.git/static/js/runtime-main.82725e33.js",
-    "runtime-main.js.map": "/motoko104/cardcaptor_clickygame.git/static/js/runtime-main.82725e33.js.map",
-    "static/js/2.775d217d.chunk.js": "/motoko104/cardcaptor_clickygame.git/static/js/2.775d217d.chunk.js",
-    "static/js/2.775d217d.chunk.js.map": "/motoko104/cardcaptor_clickygame.git/static/js/2.775d217d.chunk.js.map",
-    "index.html": "/motoko104/cardcaptor_clickygame.git/index.html",
-    "precache-manifest.d67df67f963b01325a1568dd4247ed27.js": "/motoko104/cardcaptor_clickygame.git/precache-manifest.d67df67f963b01325a1568dd4247ed27.js",
-    "service-worker.js": "/motoko104/cardcaptor_clickygame.git/service-worker.js",
-    "static/css/main.fb6e21ea.chunk.css.map": "/motoko104/cardcaptor_clickygame.git/static/css/main.fb6e21ea.chunk.css.map"
+    "main.css": "/motoko104/CardCaptor_ClickyGSame.git/static/css/main.fb6e21ea.chunk.css",
+    "main.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/main.376384ef.chunk.js",
+    "main.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/main.376384ef.chunk.js.map",
+    "runtime-main.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/runtime-main.d7db3295.js",
+    "runtime-main.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/runtime-main.d7db3295.js.map",
+    "static/js/2.775d217d.chunk.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/2.775d217d.chunk.js",
+    "static/js/2.775d217d.chunk.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/2.775d217d.chunk.js.map",
+    "index.html": "/motoko104/CardCaptor_ClickyGSame.git/index.html",
+    "precache-manifest.f550ccf3061a6c154c8d4755259f6e5f.js": "/motoko104/CardCaptor_ClickyGSame.git/precache-manifest.f550ccf3061a6c154c8d4755259f6e5f.js",
+    "service-worker.js": "/motoko104/CardCaptor_ClickyGSame.git/service-worker.js",
+    "static/css/main.fb6e21ea.chunk.css.map": "/motoko104/CardCaptor_ClickyGSame.git/static/css/main.fb6e21ea.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.82725e33.js",
+    "static/js/runtime-main.d7db3295.js",
     "static/js/2.775d217d.chunk.js",
     "static/css/main.fb6e21ea.chunk.css",
     "static/js/main.376384ef.chunk.js"
