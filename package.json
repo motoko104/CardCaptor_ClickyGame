@@ -1,0 +1,19 @@
+{
+  "name": "cardcaptor_clickygame",
+  "version": "1.0.0",
+  "description": "### **What is this \"Clicky-Game\" you speak of?** \"Card Capture Clicky-Game\" is a single page React app that is a memory game. The objective is to remember which images you have already clicked in order to increase your score. If you click on an image you already clicked before, clicking another image will restart the game, but your top score will be saved for your session and update when you beat your top score. Total possible points is 12.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motoko104/CardCaptor_ClickyGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motoko104/CardCaptor_ClickyGame/issues"
+  },
+  "homepage": "https://github.com/motoko104/CardCaptor_ClickyGame"
+}
