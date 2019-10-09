@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/motoko104/CardCaptor_ClickyGSame.git/static/css/main.fb6e21ea.chunk.css",
-    "main.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/main.376384ef.chunk.js",
-    "main.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/main.376384ef.chunk.js.map",
-    "runtime-main.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/runtime-main.d7db3295.js",
-    "runtime-main.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/runtime-main.d7db3295.js.map",
-    "static/js/2.775d217d.chunk.js": "/motoko104/CardCaptor_ClickyGSame.git/static/js/2.775d217d.chunk.js",
-    "static/js/2.775d217d.chunk.js.map": "/motoko104/CardCaptor_ClickyGSame.git/static/js/2.775d217d.chunk.js.map",
-    "index.html": "/motoko104/CardCaptor_ClickyGSame.git/index.html",
-    "precache-manifest.f550ccf3061a6c154c8d4755259f6e5f.js": "/motoko104/CardCaptor_ClickyGSame.git/precache-manifest.f550ccf3061a6c154c8d4755259f6e5f.js",
-    "service-worker.js": "/motoko104/CardCaptor_ClickyGSame.git/service-worker.js",
-    "static/css/main.fb6e21ea.chunk.css.map": "/motoko104/CardCaptor_ClickyGSame.git/static/css/main.fb6e21ea.chunk.css.map"
+    "main.css": "/CardCaptor_ClickyGame/static/css/main.fb6e21ea.chunk.css",
+    "main.js": "/CardCaptor_ClickyGame/static/js/main.376384ef.chunk.js",
+    "main.js.map": "/CardCaptor_ClickyGame/static/js/main.376384ef.chunk.js.map",
+    "runtime-main.js": "/CardCaptor_ClickyGame/static/js/runtime-main.5414bb64.js",
+    "runtime-main.js.map": "/CardCaptor_ClickyGame/static/js/runtime-main.5414bb64.js.map",
+    "static/js/2.775d217d.chunk.js": "/CardCaptor_ClickyGame/static/js/2.775d217d.chunk.js",
+    "static/js/2.775d217d.chunk.js.map": "/CardCaptor_ClickyGame/static/js/2.775d217d.chunk.js.map",
+    "index.html": "/CardCaptor_ClickyGame/index.html",
+    "precache-manifest.e302d996b70fa0e460c75f6414eef92a.js": "/CardCaptor_ClickyGame/precache-manifest.e302d996b70fa0e460c75f6414eef92a.js",
+    "service-worker.js": "/CardCaptor_ClickyGame/service-worker.js",
+    "static/css/main.fb6e21ea.chunk.css.map": "/CardCaptor_ClickyGame/static/css/main.fb6e21ea.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7db3295.js",
+    "static/js/runtime-main.5414bb64.js",
     "static/js/2.775d217d.chunk.js",
     "static/css/main.fb6e21ea.chunk.css",
     "static/js/main.376384ef.chunk.js"
