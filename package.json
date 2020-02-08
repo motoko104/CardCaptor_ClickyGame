@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://motoko104.github.io/CardCaptor_ClickyGame/"
+    "url": "https://motoko104.github.io/CardCaptor_ClickyGame"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://motoko104.github.io/CardCaptor_ClickyGame/issues"
   },
-  "homepage": "https://motoko104.github.io/CardCaptor_ClickyGame/",
+  "homepage": "https://motoko104.github.io/CardCaptor_ClickyGame",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "react-scripts": "^3.3.1"
+  }
 }
