@@ -9,7 +9,7 @@ Better question is "Why not?". Why not enjoy playing a simple memory game with a
 ### **How to get started**
 Getting started is simple, just follow the link below:
 
-[Card Captor Clicky-Game Link!](https://motoko104.github.io/clicky-game/)
+[Card Captor Clicky-Game Link!](https://motoko104.github.io/CardCaptor_ClickyGame/)
 
 and now you can play!
 ![Home Page](public/CCapp.png)
